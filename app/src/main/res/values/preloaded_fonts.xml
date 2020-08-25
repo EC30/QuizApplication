@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/cagliostro</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/ubuntu_mono_bold_italic</item>
+        <item>@font/ubuntu_mono_italic</item>
+    </array>
+</resources>
